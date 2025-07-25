@@ -222,4 +222,4 @@ npm run generate-sitemap
 
 <h3 align=center><a href="https://nextdevkit.com">NextDevKit</a></h3>
 
-![nextdevkit](docs/public/nextdevkit-template.png)
+![nextdevkit](/public/blog/nextdevkit-template.png)
