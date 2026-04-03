@@ -1,8 +1,8 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
+    title: "Zichao Chen",
+    name: "Zichao Chen",
+    description: "Zichao Chen",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
     url: "https://xxx.com",
     baseUrl: "https://xxx.com",
@@ -10,7 +10,7 @@ export const config = {
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
-      svg: "/favicon.svg",
+      svg: "/favicon.png",
       appleTouchIcon: "/favicon.png",
     },
     manifest: "/site.webmanifest",
@@ -26,8 +26,8 @@ export const config = {
   },
   author: {
     name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    email: "chen2974e99@gmail.com",
+    bio: "阅读与思考，真理与自由",
   },
   social: {
     github: "https://github.com/xxx",

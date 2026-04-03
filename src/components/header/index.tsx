@@ -9,7 +9,6 @@ import XIcon from "@/components/icons/x";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { motion } from "framer-motion";
-import { SquareTerminal } from "lucide-react";
 import { config } from "@/lib/config";
 
 export function Header() {
@@ -41,7 +40,7 @@ export function Header() {
 
         {/* Logo */}
         <Link href="/" title="Home" className="flex items-center gap-4 md:order-first">
-          <SquareTerminal className="w-10 h-10" />
+          <img src="/favicon.png" className="w-10 h-10" alt="logo" />
         </Link>
 
         {/* Desktop navigation */}
